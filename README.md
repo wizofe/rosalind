@@ -5,6 +5,6 @@ using Rust to solve them.
 
 A good way to explore a new language and think algorithmically in Bioinformatics.
 
-## Interesting Stuff
+## Interesting Stuff
 
 Have a look at the [Bioinformatics Rust Library](https://github.com/rust-bio/rust-bio).
